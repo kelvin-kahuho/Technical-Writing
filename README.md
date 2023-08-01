@@ -11,11 +11,7 @@ The repository is organized into the following sections:
 2. Guides and Tutorials: In this section, you will find a collection of guides and tutorials covering a wide range of technical topics. These documents are designed to help users understand complex concepts, troubleshoot issues, and learn how to use specific tools or technologies effectively.
 
 3. API Documentation: Here, I have documented the APIs (Application Programming Interfaces) of different software applications. The API documentation includes comprehensive details about endpoints, request/response formats, authentication methods, and usage examples.
-
-4. Best Practices: This section focuses on sharing best practices and guidelines related to technical writing. It includes articles, blog posts, and cheat sheets covering topics such as style conventions, information architecture, writing for different audiences, and ensuring accessibility.
-
-5. Samples: The samples directory contains various writing samples, including resumes, cover letters, and writing exercises. These samples are intended to showcase my writing style, attention to detail, and ability to adapt to different formats and requirements.
-
+   
 # How to Use This Repository
 
 Feel free to explore the different directories and files in this repository. You can browse through the various categories and access the relevant documents based on your interests or needs. Each file is labeled with a descriptive name to provide a clear indication of its content.
@@ -26,7 +22,6 @@ If you have any feedback, suggestions, or questions regarding any of the materia
 
 While this repository primarily serves as a showcase for my work as a technical writer, I welcome collaboration and contributions from the community. If you have ideas for new projects, suggestions for improvement, or would like to contribute to existing materials, please feel free to submit a pull request.
 
-Please refer to the contribution guidelines for more details on how to contribute to this repository.
 
 # License
 
