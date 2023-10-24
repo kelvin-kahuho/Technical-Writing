@@ -20,7 +20,7 @@ Before we dive into automation, make sure you have Python installed on your syst
 
 ## Automation with Simple Scripts
 
-Python's simplicity makes it perfect for quick automation tasks. You can create scripts that perform tasks like renaming files, sorting data, or sending emails. Example: [Automate_Email_Sender.py](./Automate_Email_Sender.py).
+Python's simplicity makes it perfect for quick automation tasks. You can create scripts that perform tasks like renaming files, sorting data, or sending emails. Example:
 
 ```python
 import smtplib
@@ -35,7 +35,7 @@ send_email("Hello", "This is an automated email.", "recipient@example.com")
 
 ## Handling Files and Directories
 
-Python's os and shutil libraries are incredibly useful for file and directory manipulation. You can automate tasks like organizing files, cleaning up folders, and managing backups. Example: Automate_File_Organization.py.
+Python's os and shutil libraries are incredibly useful for file and directory manipulation. You can automate tasks like organizing files, cleaning up folders, and managing backups. Example:
 
 ```python
 import os
